@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: #4f5bd5;
+  --card-bg: #333333;
+  --page-bg: #2a2a2a;
+}
+
+body {
+  background-color: var(--page-bg);
+  color: #ffffff;
+}
+
+/* Custom input styling for dark theme */
+input[type="text"],
+input[type="date"] {
+  color-scheme: dark;
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+  filter: invert(1);
+}
+
+/* Remove default date input styling */
+input[type="date"] {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
