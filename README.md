@@ -7,6 +7,16 @@ A modern, fast, and user-friendly flight search application built with **Next.js
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=flat-square&logo=tailwind-css)
 
+### 🌐 Live Demo
+
+**👉 [https://flight-search.vercel.app/](https://flight-search.vercel.app/)**
+
+---
+
+## 📸 Screenshot
+<img width="527" height="638" alt="Screenshot_1" src="https://github.com/user-attachments/assets/1adad340-8e99-4b3d-bab2-575e357efa09" />
+
+
 ---
 
 ## 🚀 Features
